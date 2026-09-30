@@ -1,5 +1,9 @@
 # dou-bot-example
 
+> **已迁移至统一仓库。** 最新代码和使用说明位于 [dou-bot/apps/example](https://github.com/abandon-jw3/dou-bot/tree/main/apps/example)，文档位于 [abandon-jw3.github.io/dou-bot/](https://abandon-jw3.github.io/dou-bot/)。本仓库只保留历史，请在 [主仓库](https://github.com/abandon-jw3/dou-bot) 提交问题和修改。
+>
+> 获取最新示例：克隆 `https://github.com/abandon-jw3/dou-bot.git`，进入 `dou-bot/apps/example`，再运行 `npm ci`。以下内容保留为迁移前说明。
+
 使用 [dou-bot](https://github.com/abandon-jw3/dou-bot) 开发 QQ 官方机器人的初始项目，通过 WebSocket 接收群聊和私聊消息。`/hello` 展示最简单的用法，独立的 `ExampleModule` 演示全部装饰器，并附有中文注释。
 
 ## 启动
